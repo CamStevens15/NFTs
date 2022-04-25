@@ -1,0 +1,52 @@
+[
+    {
+        "Background": "Orange",
+        "Race Car": "Red Race Car",
+        "tokenId": 0
+    },
+    {
+        "Background": "Pink",
+        "Race Car": "Red Race Car",
+        "tokenId": 1
+    },
+    {
+        "Background": "Blue",
+        "Race Car": "Red Race Car",
+        "tokenId": 2
+    },
+    {
+        "Background": "Green",
+        "Race Car": "Red Race Car",
+        "tokenId": 3
+    },
+    {
+        "Background": "Mint",
+        "Race Car": "Red Race Car",
+        "tokenId": 4
+    },
+    {
+        "Background": "Blue",
+        "Race Car": "Street Car",
+        "tokenId": 5
+    },
+    {
+        "Background": "Orange",
+        "Race Car": "Street Car",
+        "tokenId": 6
+    },
+    {
+        "Background": "Green",
+        "Race Car": "Street Car",
+        "tokenId": 7
+    },
+    {
+        "Background": "Pink",
+        "Race Car": "Street Car",
+        "tokenId": 8
+    },
+    {
+        "Background": "Mint",
+        "Race Car": "Street Car",
+        "tokenId": 9
+    }
+]
